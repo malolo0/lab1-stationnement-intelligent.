@@ -62,11 +62,3 @@ docs/
 axure/
 └── lien-cloud.md
 ```
-
-## Évaluation
-
-| Critère | Points |
-|---|---|
-| Fonctionnalités | /12 |
-| Finition | /4 |
-| Conception propice au contexte | /4 |
